@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "studentName": "Michael",
+    "scores": {
+      "matematika": 88,
+      "inggris": 72,
+      "agama": 80,
+      "psikolog": 90
+    },
+    "date": "2025-05-01"
+  },
+  {
+    "id": 2,
+    "studentName": "Sarah",
+    "scores": {
+      "matematika": 60,
+      "inggris": 65,
+      "agama": 70,
+      "psikolog": 75
+    },
+    "date": "2025-05-03"
+  },
+  {
+    "id": 3,
+    "studentName": "Aldi",
+    "scores": {
+      "matematika": 77,
+      "inggris": 65,
+      "agama": 90,
+      "psikolog": 75
+    },
+    "date": "2025-05-04"
+  },
+  {
+    "id": 4,
+    "studentName": "Risa",
+    "scores": {
+      "matematika": 82,
+      "inggris": 75,
+      "agama": 78,
+      "psikolog": 88
+    },
+    "date": "2025-05-04"
+  },
+  {
+    "id": 5,
+    "studentName": "Alfiyansyah",
+    "scores": {
+      "matematika": 75,
+      "inggris": 65,
+      "agama": 80,
+      "psikolog": 85
+    },
+    "date": "2025-05-04"
+  },
+  {
+    "id": 6,
+    "studentName": "Azka",
+    "scores": {
+      "matematika": 88,
+      "inggris": 80,
+      "agama": 77,
+      "psikolog": 75
+    },
+    "date": "2025-05-04"
+  }
+]
